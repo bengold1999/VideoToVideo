@@ -1,4 +1,4 @@
-## Runway Video-to-Video
+## Video-to-Video
 
 A minimal, clean Next.js 14 app for video-to-video generation using Runway’s AI API. Paste a video URL, describe the transformation, and download the result.
 
